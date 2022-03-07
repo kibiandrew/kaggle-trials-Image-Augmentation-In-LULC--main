@@ -1,2 +1,2 @@
-# kaggle-trials-Image-Augmentation-In-LULC--main
-mashinelearning /jupyter notebooks/python
+#Image-Augmentation-In-LULC-
+# The link provided is to the dataset 
